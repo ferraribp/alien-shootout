@@ -1,3 +1,4 @@
 # alien-shootout
-The game Alien Shootout by me.
-/n It is a website.
+The game Alien Shootout by me.<br>
+
+It is a website.
